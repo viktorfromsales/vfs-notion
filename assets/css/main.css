@@ -117,11 +117,11 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #4acaa8 !important;
+			color: ##1F7FF !important;
 		}
 
 	strong, b {
-		color: #777;
+		color: #212339;
 		font-weight: 700;
 	}
 
@@ -134,7 +134,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #777;
+		color: #212339;
 		font-weight: 700;
 		line-height: 1em;
 		margin: 0 0 0.5625em 0;
