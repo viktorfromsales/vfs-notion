@@ -2700,8 +2700,8 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #F1F7FF;
-		color: #d2f2e9;
+		background: #212339;
+		color: #F1F7FF;
 		height: 100%;
 		overflow-y: auto;
 		position: fixed;
@@ -2720,11 +2720,11 @@ input, select, textarea {
 			}
 
 		#header header p {
-			color: #b7eadc;
+			color: #F1F7FF;
 		}
 
 		#header a {
-			color: #d2f2e9;
+			color: #F1F7FF;
 		}
 
 			#header a:hover {
@@ -2772,7 +2772,7 @@ input, select, textarea {
 			}
 
 				#header > footer .icons li a {
-					color: #b7eadc;
+					color: #F1F7FF;
 				}
 
 		#header > nav {
@@ -2839,9 +2839,9 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		background: #fafafa;
+		background: #00AF40;
 		border-top: 0;
-		color: #c0c0c0;
+		color: #fff;
 		overflow: hidden;
 		padding: 4em 0 2em 0;
 	}
