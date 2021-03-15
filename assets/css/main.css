@@ -185,7 +185,7 @@ input, select, textarea {
 
 	hr {
 		border: 0;
-		border-bottom: solid 2px #f4f4f4;
+		border-bottom: solid 2px #F1F7FF;
 		margin: 2.25em 0;
 	}
 
@@ -2825,7 +2825,7 @@ input, select, textarea {
 /* Main */
 
 	#main > section {
-		border-top: solid 6px #f4f4f4;
+		border-top: solid 6px ##F1F7FF;
 	}
 
 		#main > section > .container {
