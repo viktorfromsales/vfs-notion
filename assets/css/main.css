@@ -1785,12 +1785,12 @@ input, select, textarea {
 	}
 
 	header.major h2 {
-		color: #F1F7FF;
+		color: #212339;
 		font-size: 3.5em;
 	}
 
 		header.major h2 + p {
-			color: #777;
+			color: #00AF40;
 			font-size: 1.75em;
 			font-weight: 700;
 			margin-top: -0.75em;
@@ -1992,7 +1992,7 @@ input, select, textarea {
 
 	.box {
 		border-radius: 5px;
-		border: solid 2px #e4e4e4;
+		border: solid 2px #F1F7FF;
 		margin-bottom: 2.25em;
 		padding: 1.5em;
 	}
